@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  color: whitesmoke;
+  background-color: rgb(40,0,4);
+  border-top-left-radius: 100px;
+  margin-top: 1%;
+  padding: 1%;
+}
+
+.middle {
+  background-color: rgb(204,201,161);
+  padding: 1%;
+}
+
+.middlecontainer {
+  background-color: rgb(40,0,4);
+}
+
+.image {
+  background-color: rgb(204,201,161);
+  padding: 1%;
+}
+
+.details {
+  text-align: left;
+  background-color: rgb(240,255,206);
+  border-radius: 10px;
+  padding: 1%;
+}
+
+.buttoncontainer {
+  background-color: rgb(40,0,4);
+  border-bottom-right-radius: 50px;
+  padding: 1%;
+  margin-bottom: 1%;
+}
+
+.button {
+  background-color: rgb(165,63,43);
+  font-weight: bold;
+  color: white;
+  height: 80px;
+  width: 80px;
+  font-size: 16px;
+  border-radius: 50%;
+  border-color: rgb(40,0,4);
+  border-width: 5px;
+  border-style: dashed;
+}
+
+.button:hover {
+  background-color: rgb(175,73,53);
+  border: none;
+}
+
+.button:focus {
+  outline: none;
+}
+
+body {
+
+  background-color: rgb(76,35,10);
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+h1{
+  color: whitesmoke;
+  font-weight: bold;
+}
+
+h5{
+  color: lightgray;
+  font-weight: bold;
+}
